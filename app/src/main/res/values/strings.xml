@@ -4,5 +4,9 @@
     <string name="color_shift_game">Color challenge</string>
     <string name="fakeout_game">Fakeout</string>
     <string name="circle_game">Circle Blast</string>
-
+    <string name="positive_message">Ok!</string>
+    <string name="negative_message">On second thought..</string>
+    <string name="color_shift_text">Welcome! This game tests your reaction time, so make sure to only click when it is green. You will have 5 tries and they will be averaged. Good luck!</string>
+    <string name="fakeout_text">Welcome! This game tries to fake you out with the wrong color, so make sure to click only when it is green. You will have 5 tries and they will be averaged. Good luck!</string>
+    <string name="circle_blast_text">Welcome! The cirlces tend to try and make a break for it! When they do, click on the screen. Make sure you click only when they try to escape. You will have 5 circles adn they will be averaged. Good luck!</string>
 </resources>
