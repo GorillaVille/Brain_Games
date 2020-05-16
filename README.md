@@ -17,9 +17,8 @@ At the end of the game your score will be displayed and you will be given the op
 
 Core Mechanics Being Used:
 
-1. RecyclerViewAdapter:
-In order to hold all of the information related to the clicking, I will need to store them, and I will also need to store the circles
-in Circle Blast.
+1. RecyclerView:
+I will need to store the circles in Circle Blast.
 
 2. Dialog:
 I will have a dialog pop up at the start of each game.
@@ -30,9 +29,9 @@ In order to make my Dialogs easy to make, I am using (what I believe) to be an e
 4. OnClickListeners:
 There are a lot of OnClickListeners, since the main point of the games currently is to click.
 
-5. Buttons
+5. Buttons:
 There are a lot of button on the homescreen.
 
-6. Fragment?
+6. Fragment(?):
 Probably not, but maybe my thing titled "IntroDialogFragment" is a fragment.
 
