@@ -15,4 +15,24 @@ When you enter each game from the main screen, there will be a dialog box that a
 Each game will have a start button in the center, and when you click it it will go away and the game will start.
 At the end of the game your score will be displayed and you will be given the options to retry or go to the main menu.
 
-Currently this is all I have planned, but more games could be added. If time permits, I would likely create a sudoku maker. 
+Core Mechanics Being Used:
+
+1. RecyclerViewAdapter:
+In order to hold all of the information related to the clicking, I will need to store them, and I will also need to store the circles
+in Circle Blast.
+
+2. Dialog:
+I will have a dialog pop up at the start of each game.
+
+3. External Library:
+In order to make my Dialogs easy to make, I am using (what I believe) to be an external library
+
+4. OnClickListeners:
+There are a lot of OnClickListeners, since the main point of the games currently is to click.
+
+5. Buttons
+There are a lot of button on the homescreen.
+
+6. Fragment?
+Probably not, but maybe my thing titled "IntroDialogFragment" is a fragment.
+
